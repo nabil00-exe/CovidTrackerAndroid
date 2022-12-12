@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Covid-19 tracker</string>
+    <string name="hint_username">Full name</string>
+    <string name="hint_password">Password</string>
+    <string name="button_sign_in">Sign in</string>
+    <string name="button_log_out">Log Out</string>
+    <string name="button_sign_up">Sign up</string>
+    <string name="button_add_location">Add location</string>
+    <string name="button_scan_pass">Scan your sanitary pass</string>
+    <string name="button_send">Send</string>
+    <string name="text_forgot_password">Forgot password?</string>
+    <string name="text_signin_message">Hello, sign in to your account</string>
+    <string name="text_signin_social_media">Or Sign in using social media</string>
+    <string name="text_signup_social_media">Or Sign up using social media</string>
+    <string name="text_signin_signup">Don\'t have an account? <b>Sign up</b></string>
+    <string name="text_signup_terms">By signing up, you agree to our <b>terms and conditions</b></string>
+    <string name="text_signup_message">Create your account here.</string>
+    <string name="text_add_location">Add location here.</string>
+    <string name="text_signin">Already have an account? <b>Sign in</b></string>
+    <string name="text_checkInConfirmation">Do you want to Check In At :</string>
+
+    <string name="reclamationText">If you have tested positive for covid-19 please fill in this form.</string>
+    <string name="checkinText">You need to scan the loaction\'s Qr-Code to Check-In</string>
+
+    <string name="text_forgot_password_title">Forgot password? No worries</string>
+    <string name="text_forgot_password_message">We will send you a link to reset your password</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mustNotBeEmpty">Must not be empty</string>
+
+    <string-array name="categories_array">
+        <item>Cafe</item>
+        <item>Restaurant</item>
+        <item>Boutique</item>
+        <item>Ecole</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+
+</resources>
